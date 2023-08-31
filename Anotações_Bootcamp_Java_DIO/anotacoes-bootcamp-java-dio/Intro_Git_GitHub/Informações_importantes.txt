@@ -1,0 +1,1 @@
+Neste curso, aprendi os proncípios básicos do Git e GitHub. Interagindo, entre outras coisas, com a interface do site do GitHub e utilizando o Git a partir do Git Bash.
